@@ -1,0 +1,2 @@
+# Algoritmos-de-agrupamento-K-Means-Fuzzy-C-Means-e-Gaussian-Mixture-Model-GMM-
+Avaliação de agrupamento supervisionado (K-Means, FCM, GMM) treinando um modelo por classe com k escolhido pelo cotovelo; testado em Adult e Dry Bean (30 repetições, 70/30). Adult: ~50% de acurácia; Dry Bean: GMM 91,32% > FCM 89,81% > K-Means 89,75%. Conclui-se eficácia para classes bem clusterizadas e limitação com alta sobreposição.
